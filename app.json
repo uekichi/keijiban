@@ -1,0 +1,8 @@
+{
+  "name": "keijiban",
+  "description": "秘密の匿名掲示板",
+  "repository": "https://github.com/uekichi/keijiban",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
